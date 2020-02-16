@@ -1,0 +1,6 @@
+export const GAME_OVER = "Game Over"
+export const GAME_OPEN = "Game Open"
+export const USER_MOVE = "User Move"
+export const CPU_MOVE = "CPU Thinking..."
+export const MOVE_X = "X"
+export const MOVE_O = "O"
